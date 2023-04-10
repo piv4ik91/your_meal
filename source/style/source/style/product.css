@@ -46,7 +46,7 @@
     border-radius: 12px;
 }
 .product_detail:focus-visible:after{
-   outline-color: #F86310;
+    outline-color: #F86310;
 }
 .product_weight{
     font-weight: 600;
@@ -67,17 +67,17 @@
 }
 .product_add:hover{
     background-color: #FFAB08;
-  }
-  .product_add:focus-visible{
+    }
+    .product_add:focus-visible{
     background-color: #F86310;
-  }
-  .product_add:active{
+    }
+    .product_add:active{
     transform: translate(1px, 2px);
-  }
-  .product_add:disabled{
+    }
+    .product_add:disabled{
     background-color: #F9F9F9;
     color: #ACACAC;
-  }
+    }
 @media (min-width:1024px){
     .product{
         padding: 12px;
