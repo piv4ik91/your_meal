@@ -43,31 +43,31 @@
     outline: none;
 }
 .navigation_button_burger{
-    background-image:url(source/images/burge.png);
+    background-image:url(/source/images/burge.png);
 }
 .navigation_button_snack{
-    background-image: url(source/images/snack.png);
+    background-image: url(/source/images/snack.png);
 }
 .navigation_button_hot-dog{
-    background-image: url(source/images/hot-dog.png);
+    background-image: url(/source/images/hot-dog.png);
 }
 .navigation_button_combo{
-    background-image: url(source/images/combo.png);
+    background-image: url(/source/images/combo.png);
 }
 .navigation_button_shawarma{
-    background-image: url(source/images/shawarma.png);
+    background-image: url(/source/images/shawarma.png);
 }
 .navigation_button_pizza{
-    background-image: url(source/images/pizza.png);
+    background-image: url(/source/images/pizza.png);
 }
 .navigation_button_wok{
-    background-image: url(source/images/wok.png);
+    background-image: url(/source/images/wok.png);
 }
 .navigation_button_desserts{
-    background-image: url(source/images/desserts.png);
+    background-image: url(/source/images/desserts.png);
 }
 .navigation_button_sause{
-    background-image: url(source/images/sause.png);
+    background-image: url(/source/images/sause.png);
 }
 @media (min-width: 768px) {
     .navigation_list{
