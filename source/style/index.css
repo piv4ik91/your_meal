@@ -2,7 +2,7 @@
 @import "source/style/normalize.css";
 @import "source/style/fonts.css";
 @import "source/style/default.css";
-@import "source/style/header.css";
+@import "/style/header.css";
 @import "source/style/navigation.css";
 @import "source/style/catalog.css";
 @import "source/style/order.css";
