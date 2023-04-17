@@ -29,12 +29,14 @@
 
 .navigation_button:hover,
 .navigation_button:focus-visible {
+    border-radius: 50px;
     outline: 1px solid #f86310;
     outline-offset: -1px;
 }
 
-@supports not selector(:focus-visible) {
+@supports not selector( :focus-visible) {
     .navigation_button:focus {
+        border-radius: 50px;
         outline: 1px solid #f86310;
         outline-offset: -1px;
     }
