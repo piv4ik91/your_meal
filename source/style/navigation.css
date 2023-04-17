@@ -70,7 +70,7 @@
 }
 
 .navigation_button_pizza {
-    background-image: url("/source/images/pizza.jpg");
+    background-image: url("../images/pizza.jpg");
 }
 
 .navigation_button_wok {
